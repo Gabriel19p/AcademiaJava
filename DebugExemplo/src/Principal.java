@@ -42,7 +42,7 @@ public class Principal {
 			System.out.println("O resultado de " + b + " " + operador + " " + a + " é:" + resultado);
 			}
 			else {
-				System.out.println("O resultado de " + a + " " + operador + " " + b + " �:" + resultado);	
+				System.out.println("O resultado de " + a + " " + operador + " " + b + " é:" + resultado);	
 			}
 			meuLogger.logger.info("O programa terminou as operações da calculadora com Resultado=" + resultado);
 			}																															
