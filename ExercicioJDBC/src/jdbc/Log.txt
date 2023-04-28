@@ -1,0 +1,176 @@
+Apr 28, 2023 11:15:28 AM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 11:15:28 AM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 11:15:28 AM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 11:15:28 AM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 11:37:49 AM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 11:37:49 AM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 11:37:49 AM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 11:37:49 AM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 1:56:44 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 1:56:45 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 1:56:45 PM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 1:56:45 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:26:38 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 2:26:38 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 2:26:38 PM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 2:26:38 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:27:08 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: Banco de Dados atualizado com sucesso
+Apr 28, 2023 2:27:08 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: A operacao afetou: 1 linhas.
+Apr 28, 2023 2:27:08 PM jdbc.Update main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:28:26 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 2:28:26 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 2:28:26 PM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 2:28:26 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:29:54 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 2:29:55 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 2:29:55 PM jdbc.BancoDados consultar
+INFO: Consulta feita com sucesso
+Apr 28, 2023 2:29:55 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:30:23 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: Atualização feita com sucesso.
+Apr 28, 2023 2:30:23 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: A operacao afetou: 1 linhas.
+Apr 28, 2023 2:30:23 PM jdbc.Update main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:32:07 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: Atualização feita com sucesso.
+Apr 28, 2023 2:32:07 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: 1 linhas afetadas.
+Apr 28, 2023 2:32:07 PM jdbc.Update main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 3:13:19 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: Atualização feita com sucesso.
+Apr 28, 2023 3:13:19 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: 1 linhas afetadas.
+Apr 28, 2023 3:13:19 PM jdbc.Update main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 3:13:35 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 3:13:35 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 3:13:35 PM jdbc.BancoDados consultar
+INFO: Consulta feita com sucesso
+Apr 28, 2023 3:13:35 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 3:13:56 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: Atualização feita com sucesso.
+Apr 28, 2023 3:13:56 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: 1 linhas afetadas.
+Apr 28, 2023 3:13:56 PM jdbc.Update main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 3:14:00 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 3:14:00 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 3:14:00 PM jdbc.BancoDados consultar
+INFO: Consulta feita com sucesso
+Apr 28, 2023 3:14:00 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 3:37:01 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 3:37:01 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 3:37:01 PM jdbc.BancoDados consultar
+INFO: Consulta feita com sucesso
+Apr 28, 2023 3:37:01 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:07:13 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:07:14 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:07:41 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:07:41 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:08:30 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:09:20 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:09:20 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:09:20 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as:31/12/1969feita com sucesso
+Apr 28, 2023 7:09:20 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:10:33 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:10:33 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:10:33 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as:31/12/1969e21:00:00feita com sucesso
+Apr 28, 2023 7:10:33 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:11:35 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:11:36 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:11:36 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as:31/12/1899e00:00:00feita com sucesso
+Apr 28, 2023 7:11:36 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:17:02 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:18:04 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:18:05 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:18:05 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as:2023-04-28feita com sucesso
+Apr 28, 2023 7:18:05 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:21:00 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:21:00 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:21:00 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as:2023-04-28 e19:21:00.708433600 feita com sucesso
+Apr 28, 2023 7:21:00 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:22:13 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:22:13 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:22:13 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as:2023-04-28 e 19:22:13.665090100 feita com sucesso
+Apr 28, 2023 7:22:13 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:22:39 PM jdbc.Consulta main
+INFO: Iniciando Banco de Dados
+Apr 28, 2023 7:22:39 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 7:22:39 PM jdbc.BancoDados consultar
+INFO: Consulta realizada as: 2023-04-28 e 19:22:39.823008500 feita com sucesso
+Apr 28, 2023 7:22:39 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 7:25:00 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: Atualização realizada as: 2023-04-28 e 19:25:00.519420200 feita com sucesso
+Apr 28, 2023 7:25:00 PM jdbc.BancoDados inserirAlterarExcluir
+INFO: 1 linhas afetadas.
+Apr 28, 2023 7:25:00 PM jdbc.Update main
+INFO: Banco de Dados desconectado
