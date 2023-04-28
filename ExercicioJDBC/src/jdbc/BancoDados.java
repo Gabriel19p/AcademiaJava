@@ -2,6 +2,8 @@ package jdbc;
 
 import java.io.IOException;
 import java.sql.*;
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.logging.Level;
 
 public class BancoDados implements InterfaceBancoDados {
@@ -43,7 +45,9 @@ public class BancoDados implements InterfaceBancoDados {
                 " " + rs.getString(4));
             }
             System.out.println("Banco de Dados consultado com sucesso");
-            meuLogger.logger.info("Consulta feita com sucesso");
+            LocalDate now = LocalDate.now(); 
+            LocalTime now1 = LocalTime.now(); 
+            meuLogger.logger.info("Consulta realizada as:" + " " + LocalDate.now()+ " " + "e" + " " + LocalTime.now() + " " + "feita com sucesso");
             rs.close();
             stmt.close();
         } catch (SQLException e) {
@@ -60,7 +64,9 @@ public class BancoDados implements InterfaceBancoDados {
 		try {
 			meuLogger.logger.setLevel(Level.FINE);
 			System.out.println("Banco de Dados atualizado com sucesso");
-			 meuLogger.logger.info("Atualização feita com sucesso.");
+			 LocalDate now = LocalDate.now(); 
+	         LocalTime now1 = LocalTime.now(); 
+	         meuLogger.logger.info("Atualização realizada as:" + " " + LocalDate.now()+ " " + "e" + " " + LocalTime.now() + " " + "feita com sucesso");
 			Statement stmt = conn.createStatement();
             int result = stmt.executeUpdate(db_query);
             int linhas = result;
