@@ -1,0 +1,52 @@
+Apr 27, 2023 8:45:34 PM Principal main
+INFO: Log de informação
+Apr 27, 2023 8:45:34 PM Principal main
+WARNING: Log de Aviso
+Apr 27, 2023 8:45:34 PM Principal main
+SEVERE: Log Severo
+Apr 27, 2023 8:56:13 PM Principal main
+INFO: O programa iniciou a chamada calculadora
+Apr 27, 2023 8:56:17 PM Principal main
+INFO: O programa terminou as operações da calculadora com Resultado=4.0
+Apr 28, 2023 1:56:50 PM Principal main
+INFO: O programa iniciou a chamada calculadora
+Apr 28, 2023 1:56:55 PM Calculadora calcular
+INFO: Selecionado opção de adição
+Apr 28, 2023 1:56:55 PM Principal main
+INFO: O programa terminou as operações da calculadora com Resultado=0.0
+Apr 28, 2023 1:58:14 PM Principal main
+INFO: O programa iniciou a chamada calculadora
+Apr 28, 2023 1:58:18 PM Calculadora calcular
+INFO: Selecionado opção de adição
+Apr 28, 2023 1:58:18 PM Calculadora calcular
+INFO: calculando resultado...
+Apr 28, 2023 1:58:18 PM Calculadora calcular
+INFO: O resultado é: 4.0
+Apr 28, 2023 1:58:18 PM Principal main
+INFO: O programa terminou as operações da calculadora com Resultado=4.0
+Apr 28, 2023 1:59:43 PM Principal main
+INFO: O programa iniciou a chamada calculadora
+Apr 28, 2023 1:59:50 PM Calculadora calcular
+INFO: Selecionado opção de adição
+Apr 28, 2023 1:59:50 PM Calculadora calcular
+INFO: calculando resultado...
+Apr 28, 2023 1:59:50 PM Calculadora calcular
+INFO: O programa terminou as operações da calculadora com Resultado=16.0
+Apr 28, 2023 1:59:50 PM Principal main
+INFO: O programa terminou as operações da calculadora com Resultado=16.0
+Apr 28, 2023 2:04:43 PM Principal main
+INFO: O programa iniciou a chamada calculadora
+Apr 28, 2023 2:04:47 PM Calculadora calcular
+INFO: Selecionado opção de subtração
+Apr 28, 2023 2:04:47 PM Calculadora calcular
+INFO: calculando resultado...
+Apr 28, 2023 2:04:47 PM Principal main
+INFO: O programa terminou as operações da calculadora com Resultado=1.0
+Apr 28, 2023 2:07:22 PM Principal main
+INFO: O programa iniciou a chamada calculadora
+Apr 28, 2023 2:07:27 PM Calculadora calcular
+INFO: Selecionado opção de multiplicação
+Apr 28, 2023 2:07:27 PM Calculadora calcular
+INFO: calculando resultado...
+Apr 28, 2023 2:07:27 PM Principal main
+INFO: O programa terminou as operações da calculadora com Resultado=6.0
