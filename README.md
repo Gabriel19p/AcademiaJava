@@ -1,3 +1,3 @@
 # AcademiaJava
 
-Exercício JDBC Academia Java Atos-UFN 2023
+Exercícios Academia Java Atos-UFN 2023
