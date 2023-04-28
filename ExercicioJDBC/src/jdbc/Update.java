@@ -28,20 +28,20 @@ public class Update {
 
         bd.conectar(db_url, db_user, db_password);
         
-    //String query1 = "INSERT INTO carro (placa, marca, modelo) VALUES ('AXG52146', 'Audi', 'Q3')";
+        String query1 = "INSERT INTO carro (placa, marca, modelo) VALUES ('AS5V6SC', 'Renault', 'Kwid')";
         /* String query2 = "INSERT INTO carro (placa, marca, modelo) VALUES ('AB4S5S', 'BMW', '320i')";
        	String query3 = "INSERT INTO carro (placa, marca, modelo) VALUES ('B4GJSA', 'HONDA', 'Fit')";*/
-    // meuLogger.logger.info("Inserindo dados..");
+     	meuLogger.logger.info("Inserindo dados..");
         
-     //String query1 = "DELETE FROM carro WHERE(placa, marca, modelo) = ('AXG52146', 'Audi', 'Q3')";
+     	//String query1 = "DELETE FROM carro WHERE(placa, marca, modelo) = ('AXG52146', 'Audi', 'Q3')";
     	/*String query2 = "DELETE FROM carro WHERE (placa, marca, modelo) = ('AB4S5S', 'BMW', '320i)";
     	String query3 = "DELETE FROM carro WHERE (placa, marca, modelo) = ('B4GJSA', 'HONDA', 'Fit')";*/
-      //meuLogger.logger.info("Deletando dados..");
+     	//meuLogger.logger.info("Deletando dados..");
        
-     String query1 = "UPDATE carro SET modelo = 'Fit' WHERE modelo = 'Tracker'";
+     //String query1 = "UPDATE carro SET modelo = 'Fit' WHERE modelo = 'Tracker'";
      /* String query2 = "INSERT INTO carro (placa, marca, modelo) VALUES ('AB4S5S', 'BMW', '320i')";
     	String query3 = "INSERT INTO carro (placa, marca, modelo) VALUES ('B4GJSA', 'HONDA', 'Fit')";*/
-     meuLogger.logger.info("Atualizando dados..");
+     //meuLogger.logger.info("Atualizando dados..");
      
        bd.inserirAlterarExcluir(query1);
       /* bd.inserirAlterarExcluir(query2);
