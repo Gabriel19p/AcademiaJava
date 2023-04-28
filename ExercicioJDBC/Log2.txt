@@ -1,0 +1,36 @@
+Apr 28, 2023 11:15:28 AM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 11:15:28 AM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 11:15:28 AM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 11:37:49 AM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 11:37:49 AM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 11:37:49 AM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 1:56:45 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 1:56:45 PM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 1:56:45 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:26:38 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 2:26:38 PM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 2:26:38 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:28:26 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 2:28:26 PM jdbc.BancoDados consultar
+INFO: Banco de Dados consultado com sucesso
+Apr 28, 2023 2:28:26 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
+Apr 28, 2023 2:29:55 PM jdbc.BancoDados consultar
+INFO: Consultando Banco...
+Apr 28, 2023 2:29:55 PM jdbc.BancoDados consultar
+INFO: Consulta feita com sucesso
+Apr 28, 2023 2:29:55 PM jdbc.Consulta main
+INFO: Banco de Dados desconectado
